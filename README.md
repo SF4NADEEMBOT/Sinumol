@@ -1,11 +1,11 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://pin.it/vQEfnoh" width="170" height="170"/>
+  <img border-radius: 15px src="farooq.jpg" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="LiyaMol" src="https://img.shields.io/badge/LiyaMol-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="sinumol" src="https://img.shields.io/badge/LiyaMol-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/saidalisaid2"><img title="Author" src="https://img.shields.io/badge/Author-saidali/LiyaMol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/saidalisaid2"><img title="FD:NN4" src="https://img.shields.io/badge/Author-saidali/LiyaMol?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
