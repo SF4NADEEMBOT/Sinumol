@@ -5,7 +5,7 @@
 <a href="#"><img title="sinumol" src="https://img.shields.io/badge/Sinumol-sf4?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/saidalisaid2"><img title="FD:NN4" src="https://img.shields.io/badge/Author-saidali/LiyaMol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/saidalisaid2"><img title="FD:NN4" src="https://img.shields.io/badge/FD:NN4-SF4NADEEMBOT/Sinumol?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
