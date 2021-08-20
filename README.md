@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/saidalisaid2">Farooq</a> to make it public
+Project created by <a href="https://github.com/SF4NADEEMBOT">Farooq</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,7 +19,7 @@ Project created by <a href="https://github.com/saidalisaid2">Farooq</a> to make 
 ----
 
   <p align="center">
-  <a href="https://github.com/saidalisaid2/LiyaMol">
+  <a href="https://github.com/SF4NADEEMBOT/Sinumol">
     <img src="https://img.shields.io/github/repo-size/saidalisaid2/LiyaMol?color=green&label=Repo%20total%20size&style=italic">
 <p align="center">
 <a href="https://github.com/afnanplk/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
