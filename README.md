@@ -69,7 +69,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
     
   [![Farooq](https://github.com/SF4NADEEMBOT.png?size=100)](https://github.com/SF4NADEEMBOT) |  [![Alien-Alfa](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk)
 ----|----|----
-[Farooq](https://github.com/farhan-dqz)  | [Alien-Alfa](https://github.com/saidalisaid2) | [afnanplk](https://github.com/afnanplk)
+[Farooq](https://github.com/SF4NADEEMBOT)  | [Alien-Alfa](https://github.com/Alien-Alfa) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
 
