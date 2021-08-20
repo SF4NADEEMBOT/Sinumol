@@ -133,7 +133,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('LiyaMol bot working perfectly 👻')
+            chalk.green.bold('Sinumol bot working perfectly 👻')
         );
     });
     
