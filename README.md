@@ -34,7 +34,7 @@ Project created by <a href="https://github.com/SF4NADEEMBOT">Farooq</a> to make 
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@farooq67893/SinuMol-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@farooq67893/pinkymwol-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SF4NADEEMBOT/Sinumol)
      </div>
