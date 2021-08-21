@@ -1,6 +1,6 @@
-/* Copyright (C) 2021 saidali
+/* Copyright (C) 2021 Farooq
 
-CODDED BY saidali 
+CODDED BY Farooq 
 respcet owner
 Licensed under the  GPL-3.0 License;
 
