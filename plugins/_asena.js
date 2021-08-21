@@ -12,7 +12,7 @@ const {MessageType} = require('@adiwajshing/baileys');
 const Language = require('../language');
 const Lang = Language.getString('_asena');
 
-if (Config.WORKTYPE == 'public') {
+if (Config.WORKTYPE == 'private') {
 
     Asena.addCommand({pattern: 'list ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
 
