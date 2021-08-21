@@ -23,8 +23,8 @@ Asena.addCommand({pattern: 'qr ?(.*)', fromMe: false, desc: QR_DESC}, (async (me
 
     if (match[1] === '') return await message.sendMessage(NEED_TEXT);
 
-    var webimage = await axios.get(`https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=${match[1].replace(/#/g, '\nsaidali')} `, { responseType: 'arraybuffer' })
+    var webimage = await axios.get(`https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=${match[1].replace(/#/g, '\nfarooq')} `, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "'''Made By  ʟɪͥʏͭᴀᷤᴍᷟᴏͤʟ'''"})
+    await message.sendMessage(Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "'''Made By  SINU MOL'''"})
 
 }));
