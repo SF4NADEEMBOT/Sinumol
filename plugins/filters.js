@@ -1,4 +1,4 @@
-/* Copyright (C) 2020 farhan-dqz.
+/* Copyright (C) 2020 farooq-sf4.
 re codded by Farooq and Nadeem
 */
 const fs = require('fs')
