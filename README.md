@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="Sinumol.jpg" width="170" height="170"/>
+  <img border-radius: 15px src="Sinumol.jpg" width="180" height="180"/>
   <p align="center">
 <a href="#"><img title="sinumol" src="https://img.shields.io/badge/Sinumol-sf4?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
