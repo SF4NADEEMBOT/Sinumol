@@ -1,6 +1,6 @@
 /* Codded by @mrclfd // rapiUp
 Telegram: t.me/mrclfd
-Recode saidalisaid
+Recode FarooqSF4
 Semoga Berfaedah dan Berkah :)
 */
 
