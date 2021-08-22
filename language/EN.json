@@ -241,7 +241,7 @@
             "UPDATE": "*Your SinuMol is completely up-to-date!*",
             "NEW_UPDATE": "*New update available for SinuMol!*\n\n ```use .help for commands``` \n\n *ask support group before updating or your bot might stop working* \n *-if bot stop working you will have to re-deploy* \n\n Updates are:\n\n ",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "LiyaMol Updating...",
+            "UPDATING": "SinuMol Updating...",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*✅ Successfully Updated!*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
