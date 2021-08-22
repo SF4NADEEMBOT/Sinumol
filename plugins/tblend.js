@@ -1,6 +1,6 @@
 /* Codded by @phaticusthiccy
 Telegram: t.me/phaticusthiccy
-Re edit
+Re edit  Farooq
 Instagram: www.instagram.com/kyrie.baran
 */
 
