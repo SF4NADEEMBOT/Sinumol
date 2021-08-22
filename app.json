@@ -87,7 +87,7 @@
             "value": "true"
         },
          "BOT_NAME": {
-            "description": "heading for .list command reply",
+            "description": "heading for .help command reply",
             "required": false,
             "value": "•━━━━╼⤏```ꜱɪͥɴͭᴜᷤᴍᷟᴏͤʟ```⤎╾━━━•"
         },
