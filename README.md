@@ -20,7 +20,7 @@ Project created by <a href="https://github.com/SF4NADEEMBOT">Farooq</a> to make 
 
   <p align="center">
   <a href="https://github.com/SF4NADEEMBOT/Sinumol">
-    <img src="https://img.shields.io/github/repo-size/saidalisaid2/LiyaMol?color=green&label=Repo%20total%20size&style=italic">
+    <img src="https://img.shields.io/github/repo-size/SF4NADEEMBOT/SinuMol?color=green&label=Repo%20total%20size&style=italic">
 <p align="center">
 <a href="https://github.com/afnanplk/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
 <a href="https://github.com/afnanplk/lastpink/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/afnanplk/lastpink?color=red&style=flat-square"></a>
